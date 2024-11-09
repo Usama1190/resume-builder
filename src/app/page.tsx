@@ -6,7 +6,7 @@ import Hero from "./components/Hero";
 
 export default function Home() {
   return (
-    <div className="p-0 m-0 border-0">
+    <div className="p-0 m-0 w-[1200px]">
       <Header />
       <Hero />
       <Footer />
